@@ -1,0 +1,3 @@
+[submodule "packs/dev/clojure-pack/vendor/submodules/edn"]
+	path = packs/dev/clojure-pack/vendor/submodules/edn
+	url = git://github.com/expez/edn.el.git
